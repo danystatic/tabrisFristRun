@@ -7,7 +7,7 @@ contentView.append(
 );
 
 function loadUrl() {
-  $(WebView).only().url = "https://nflchallenge.club";
+  $(WebView).only().url = "https://danielvt.com";
 }
 
 loadUrl();
