@@ -7,7 +7,6 @@
   <author email="daniel@danielvt.com">
     Danielvt
   </author>
-   <icon src="res/android/icon.png" platform="android" width="57" height="57" density="mdpi" />
   <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
    <platform name="android">
               <icon src="res/android/ldpi.png" density="ldpi" />
